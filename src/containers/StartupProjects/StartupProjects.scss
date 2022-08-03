@@ -54,6 +54,9 @@
   height: 250px;
   overflow: hidden;
   text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .projects-container {
@@ -69,8 +72,9 @@
   align-items: center;
   border-radius: 4px;
   display: inline-flex;
-  font-size: 0.75rem;
-  height: 2em;
+  font-size: 1rem;
+  width: 30%;
+  height: 3em;
   justify-content: center;
   white-space: nowrap;
   line-height: 1.5;
