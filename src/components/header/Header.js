@@ -22,7 +22,7 @@ function Header() {
   const viewAchievement = achievementSection.display;
   const viewBlog = blogSection.display;
   const viewTalks = talkSection.display;
-  const viewBigProjects = bigProjects.display
+  const viewBigProjects = bigProjects.display;
 
   return (
     <Headroom>
