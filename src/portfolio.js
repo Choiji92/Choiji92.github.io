@@ -23,7 +23,7 @@ const greeting = {
   username: "Jihoon",
   title: "Hi all, I'm Jihoon",
   subTitle: emoji(
-    "Html/CSS/JavaScript와 React를 사용하여 웹 애플리케이션을 개발하고, 백엔드 개발자들과 디자이너와의 협업을 통해 실제 프로젝트를 만들어 런칭해본 경험이 있습니다. 문제를 해결하며 성장해 나가는 프론트엔드 주니어 개발자가 되고 싶은 최지훈입니다!🚀 "
+    "Html/CSS/JavaScript와 React를 사용하여 웹 애플리케이션을 개발하고, 백엔드 개발자들과 디자이너와의 협업을 통해 실제 프로젝트를 만들어 런칭해본 경험이 있습니다. 문제를 해결하며 성장해 나가는 프론트엔드 개발자가 되고 싶은 최지훈입니다!🚀 "
   ),
   resumeLink: "https://velog.io/@choiji0513", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
