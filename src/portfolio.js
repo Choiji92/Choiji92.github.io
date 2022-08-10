@@ -23,9 +23,9 @@ const greeting = {
   username: "Jihoon",
   title: "Hi all, I'm Jihoon",
   subTitle: emoji(
-    "Html/CSS/JavaScript와 React를 사용하여 웹 애플리케이션을 개발하고, 백엔드 개발자들과 디자이너와의 협업을 통해 실제 프로젝트를 만들어 런칭해본 경험이 있습니다. 문제를 해결하며 성장해 나가는 프론트엔드 개발자가 되고 싶은 최지훈입니다!🚀 "
+    "Html/CSS/JavaScript와 React를 사용하여 웹 애플리케이션을 개발하고, 백엔드 개발자들과 디자이너와의 협업을 통해 실제 프로젝트를 만들어 런칭해본 경험이 있습니다. 문제를 해결하며 성장해 나가고, 사람들에게 좋은 영향력을 끼치고 싶은 프론트엔드 개발자 최지훈입니다!🚀 "
   ),
-  resumeLink: "https://velog.io/@choiji0513", // Set to empty to hide the button
+  resumeLink: "https://www.notion.so/519df67384c5419bbae4ea919fc2a7f8", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -364,8 +364,8 @@ const podcastSection = {
 
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
-  subtitle: "문제를 해결하였을 때 성취감을 즐기며 성장하는 것을 좋아합니다!🔥 ",
-  number: "+82 10-2941-2153",
+  subtitle: "사람들에게 좋은 영향력을 끼치고 싶은 프론트엔드 개발자 입니다!🔥 ",
+  number: "+82 010-2941-2153",
   email_address: "jeahoon100@naver.com"
 };
 
