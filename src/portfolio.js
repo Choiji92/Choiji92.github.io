@@ -231,18 +231,6 @@ const bigProjects = {
           url: "https://github.com/Choiji92/good_night"
         }
       ]
-    },
-    {
-      image: require("./assets/images/hanghaeMusic99.webp"),
-      projectName: "항해뮤직99",
-      projectDesc:
-        "music platform에서 가져온 실시간 Top 99위 까지의 노래에 자유롭게 코멘트를 작성하며 소통할 수 있는 웹입니다.😄",
-      footerLink: [
-        {
-          name: "항해뮤직99",
-          url: "https://github.com/Choiji92/hanghaeMusic99"
-        }
-      ]
     }
   ],
   display: true // Set false to hide this section, defaults to true
